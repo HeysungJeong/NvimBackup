@@ -16,3 +16,4 @@ set.incsearch = true
 set.mouse = 'a'
 set.clipboard:append('unnamedplus')
 
+vim.cmd.colorscheme "catppuccin"
