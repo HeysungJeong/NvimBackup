@@ -5,4 +5,5 @@ require('plugins')
 
 require('pLsp')
 require('pTree')
+require('pCmp')
 --vim.cmd[[colorscheme tokyonight]]
